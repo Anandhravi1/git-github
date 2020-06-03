@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Eina03-SemiBold';
+  src: url('Eina03-SemiBold.eot');
+  src: url('Eina03-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('Eina03-SemiBold.svg#Eina03-SemiBold') format('svg'),
+       url('Eina03-SemiBold.ttf') format('truetype'),
+       url('Eina03-SemiBold.woff') format('woff'),
+       url('Eina03-SemiBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
